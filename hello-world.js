@@ -1,4 +1,4 @@
 
 function initApplication() {
-    console.log('Hello World EJP - Starting!');
+    console.log('Hello World TJQ - Starting!');
 }
